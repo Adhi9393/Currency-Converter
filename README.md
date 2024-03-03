@@ -5,11 +5,14 @@ A program that converts currencies using CLI
 
 
 ⚙️ Languages or Frameworks Used
+
 pip install forex-python
+
 pip install requests
 
 
 🌟 How to run
+
 python currency-converter.py <[amount]> <BASE> to <DESTINATION>
 
 
